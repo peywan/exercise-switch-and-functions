@@ -1,0 +1,16 @@
+{
+  "name": "scopeandmap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chas_ovning-main/question1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon chas_ovning-main/question1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
